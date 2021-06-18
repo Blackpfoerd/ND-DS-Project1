@@ -26,4 +26,4 @@ This project tried to answer, if and to which degree, the progamming language Ju
 
 # Results <a name="results"></a>
 
-You can find the answers of the those questions [here](https://here.com)
+You can find the answers of the those questions [here](https://thomas-pietras.medium.com/is-julia-the-snake-charmer-4cf1ae89128)
