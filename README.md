@@ -24,6 +24,16 @@ This project tried to answer, if and to which degree, the progamming language Ju
 2) How many people are planning to work with Julia?
 3) And are people in data related jobs more likely to use Julia?
 
+# Project Method
+
+This project followed the CRISP-DM process. You can find the process steps and explanations embeeded within the Project1.ipynb file.
+
+# File Description
+
+In this 
+
+P
+
 # Results <a name="results"></a>
 
 You can find the answers of the those questions [here](https://here.com)
