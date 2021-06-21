@@ -30,10 +30,15 @@ This project followed the CRISP-DM process. You can find the process steps and e
 
 # File Description
 
-In this 
+This project has following files included or used:
 
-P
+- Project1.ipynb: Jupyter Notebook including the analysis according to CRISP-DM
+- Pictures Folder: Folder with images used for my blog entry.
+- Data used from Stack Overflow: [Data](https://insights.stackoverflow.com/survey#)
 
 # Results <a name="results"></a>
 
-You can find the answers of the those questions [here](https://thomas-pietras.medium.com/is-julia-the-snake-charmer-4cf1ae89128)
+You can find the answers of the those questions [here](https://here.com)
+
+# Acknowledgements
+Feel free to use the code if you want. Credit to Stack Overflow for the data. You can find the Licensing for the data and other descriptive information [here](https://insights.stackoverflow.com/survey#).
